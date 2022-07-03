@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cindy</h1>
-<h3 align="center">Aspriring Full Stack Web Developer passionate about bringing both the technical and visual aspects of digital products to life. I have a passion for web and blockchain technology.</h3>
+<h3 align="center">Aspiring Full Stack Web Developer passionate about bringing both the technical and visual aspects of digital products to life. I have a passion for web and blockchain technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoxoiindy&label=Profile%20views&color=0e75b6&style=flat" alt="xoxoiindy" /> </p>
 
