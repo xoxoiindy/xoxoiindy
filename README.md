@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xoxoiindy](https://github.com/xoxoiindy)
 
-- 💬 Ask me about **Currently enrolled in a 22 week Full Stack Web Development coding bootcamp.**
+- 💬 **Currently enrolled in a 22 week Full Stack Web Development coding bootcamp.**
 
 - ⚡ Fun fact **I'm a crypto maximalist.**
 
