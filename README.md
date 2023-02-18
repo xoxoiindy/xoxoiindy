@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Cindy</h1>
-<h3 align="center">Aspiring Full Stack Web Developer passionate about bringing both the technical and visual aspects of digital products to life. I have a passion for web and blockchain technology.</h3>
+
+<h3 align="center">👋 Web developer and designer passionate about bringing both the technical and visual aspects of digital products to life. I have a passion for web and blockchain technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoxoiindy&label=Profile%20views&color=0e75b6&style=flat" alt="xoxoiindy" /> </p>
 
-- 🌱 I’m currently learning **React, advance JavaScript ES6 and functional components using React Hooks and developing state-aware applications using the latest redux toolkit.**
+- 🌱 I’m currently learning: **React, advance JavaScript ES6, and Webflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xoxoiindy](https://github.com/xoxoiindy)
-
-- 💬 **Currently enrolled in a 22 week Full Stack Web Development coding bootcamp.**
 
 - ⚡ Fun fact **I'm a crypto maximalist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xoxoiindy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xoxoiindy" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/cynthia1pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cynthia1pro" height="30" width="40" /></a>
 </p>
 
