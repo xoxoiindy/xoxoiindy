@@ -3,16 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoxoiindy&label=Profile%20views&color=0e75b6&style=flat" alt="xoxoiindy" /> </p>
 
-- 🌱 I’m currently learning: **React, advance JavaScript ES6, and Webflow**
-
 - 👨‍💻 All of my projects are available at [https://github.com/xoxoiindy](https://github.com/xoxoiindy)
 
 - ⚡ Fun fact **I'm a crypto maximalist.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://linkedin.com/in/cynthia1pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cynthia1pro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
